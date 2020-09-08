@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Abhinav Tiwari ",
+    "occupation": "Full Stack Developer ",
+    "description": "Full time student  by Day, Freelancer by Night.",
+    "image": "Abhinav.jpeg",
+    "bio": "My name is Abhinav, I'm a Full Stack ReactJS Developer .",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "tiwariabhinavin@gmail.com",
+    "phone": "+91 7905898457",
+    "address": {
+      "street": "RML National Law University ",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zip": "226012"
+    },
+    "website": "",
+    "resumedownload": "https://www.linkedin.com/in/abhinav-tiwari-1b231416b/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abhinav.tiwari.52090",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhinav-tiwari-1b231416b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/matrix101A",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Indian Institute of Technology Kanpur ",
+        "degree": "B.Tech",
+        "graduated": "2023",
+        "description": "Major in Biological Sciences and Bioengineering "
+      }
+    ],
+    "work": [
+      {
+        "company": "MyAwesomeCart",
+        "title": "Full stack Web developer ",
+        "years": "Aug 2020 - Present",
+        "description": "Made a E-commerse website from stratch using Django framework ."
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Django",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "My Awesome Cart ",
+        "category": "An E-commerce website create using django ",
+        "image": "MAC.jpeg",
+        "url": "https://github.com/matrix101A/MyAwesomeCart"
+      },
+      {
+        "title": "Text Utils ",
+        "category": "I minimalistic text editor using django ",
+        "image": "TextUtils.png",
+        "url": "https://github.com/matrix101A/Textutils"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "A user interface is like a joke. If you have to explain it, it’s not that good.",
+        "user": "Unknown"
+      }
+      
+    ]
+  }
+}
